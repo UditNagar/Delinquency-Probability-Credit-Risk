@@ -1,6 +1,8 @@
 # Delinquency Probability of a Customer
 Based on Kaggle Competition: Give Me Some Credit
 
+The Data Dictionary, Training and Test Sets belongs to Kaggle and Competition creator.
+
 This notebook is created 9 years after this competition ended. The main aim of this project is to predict the probabily whether a customer will default in the future given his record present in the dataset. We will be using predict_proba to determine the delinquency probabilities of the customer.
 
 The Highlights of the notebook are:
