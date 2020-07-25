@@ -6,48 +6,28 @@ This notebook is created 9 years after this competition ended. The main aim of t
 The Highlights of the notebook are:
 
 Exploratory Data Analysis
-  **Outlier Analysis**
-  **Null Handling**
-  **Distribution Analysis**
-  **Skewness Reduction (using Box Cox Transformation)**
-Feature Engineering
-LightGBM using RandomizedSearchCV (Classification)
-  **Evaluation Metrics
-  Mean Squared Error
-  Root Mean Squared Error
-  Mean Absolute Error
-  Mean Squared Logarithmic Error
-  Root Mean Square Logarithmic Error
-  Accuracy on Training Set
-  Accuracy on Test Set
-  F-Beta Score (Beta = 2)
-  F1 Score
-  Precision
-  Recall
+  (**Outlier Analysis**,
+  **Null Handling**,
+  **Distribution Analysis**,
+  **Skewness Reduction (using Box Cox Transformation)**),
+Feature Engineering,
+LightGBM using RandomizedSearchCV (Classification) and XGBoost using RandomizedSearchCV (Classification).
+
+
+  The Evaluation Metrics used are:
+  **Mean Squared Error,
+  Root Mean Squared Error,
+  Mean Absolute Error,
+  Mean Squared Logarithmic Error,
+  Root Mean Square Logarithmic Error,
+  Accuracy on Training Set,
+  Accuracy on Test Set,
+  F-Beta Score (Beta = 2),
+  F1 Score,
+  Precision,
+  Recall,
   Confusion Matrix
-  AUC Curve**
-Probability Prediction on Validation Sets
-Delinquency Prediction on Validation Sets
-Feature Importances
-  **Summary Plot
-  SHAP Analysis**
-XGBoost using RandomizedSearchCV (Classification)
-  **Evaluation Metrics
-  Mean Squared Error
-  Root Mean Squared Error
-  Mean Absolute Error
-  Mean Squared Logarithmic Error
-  Root Mean Square Logarithmic Error
-  Accuracy on Training Set
-  Accuracy on Test Set
-  F-Beta Score (Beta = 2)
-  F1 Score
-  Precision
-  Recall
-  Confusion Matrix
-  AUC Curve**
-Probability Prediction on Validation Sets
-Delinquency Prediction on Validation Sets
-Feature Importances
-  **Summary Plot
+  and AUC Curve**.
+The Probability Prediction and Delinquency Prediction on Validation Sets. The Feature Importances are also visualized for
+  **Summary Plot and
   SHAP Analysis**
